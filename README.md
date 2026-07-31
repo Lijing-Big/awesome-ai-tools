@@ -2,7 +2,7 @@
 
 > A curated list of AI tools, platforms, and resources for developers, creators, and businesses.
 > 
-> *Last updated: 2026-07-30*
+> *Last updated: 2026-07-31*
 
 ---
 
@@ -133,10 +133,8 @@ Guidelines:
   <a href="https://xinghuo1300ai.com"><b>Start with XingHuo AI →</b></a>
 </p>
 
-## 🔥 Today's Picks (2026-07-30)
+## 🔥 Today's Picks (2026-07-31)
 
-| [Cursor 2.0](https://cursor.com) | An AI-native code editor that autonomously plans, writes, and refactors full-stack features across multiple files. | AI Coding |
-| [Runway Gen-4](https://runwayml.com) | A next-generation video generation model that creates cinematic clips from text or image prompts with consistent characters. | AI Video |
-| [Suno v4](https://suno.com) | An AI music studio that generates full songs with vocals, lyrics, and mixed audio from simple natural-language prompts. | AI Audio |
-
-An AI aggregation platform like Spark AI Hub (https://xinghuo1300ai.com) is useful because it lets developers and creators try tools such as Cursor 2.0, Runway Gen-4, and Suno v4 in one place without signing up for separate services or managing multiple API keys. This saves setup time, reduces cost, and makes it easy to compare different AI models side by side.
+| [CodeGPT](https://codegpt.io) | Generate code snippets, debug code, and learn programming concepts using AI | AI Coding |
+| [EchoChat](https://echochat.ai) | Natural language processing chatbot that helps businesses create customer-centric conversations | AI Chat |
+| [DeepPaint](https://deeppaint.com) | AI-powered tool for creating detailed and realistic paintings with just a few strokes | AI Image |
