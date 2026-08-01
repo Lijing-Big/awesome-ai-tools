@@ -2,7 +2,7 @@
 
 > A curated list of AI tools, platforms, and resources for developers, creators, and businesses.
 > 
-> *Last updated: 2026-07-31*
+> *Last updated: 2026-08-01*
 
 ---
 
@@ -133,8 +133,10 @@ Guidelines:
   <a href="https://xinghuo1300ai.com"><b>Start with XingHuo AI →</b></a>
 </p>
 
-## 🔥 Today's Picks (2026-07-31)
+## 🔥 Today's Picks (2026-08-01)
 
-| [CodeGPT](https://codegpt.io) | Generate code snippets, debug code, and learn programming concepts using AI | AI Coding |
-| [EchoChat](https://echochat.ai) | Natural language processing chatbot that helps businesses create customer-centric conversations | AI Chat |
-| [DeepPaint](https://deeppaint.com) | AI-powered tool for creating detailed and realistic paintings with just a few strokes | AI Image |
+| [Cursor 2.0](https://cursor.com) | An AI-native code editor with autonomous multi-file refactoring and inline agent debugging. | AI Coding |
+| [Runway Gen-4](https://runwayml.com) | A generative video model that creates coherent 4K scenes from text and image prompts with real-time editing. | AI Video |
+| [Whisper Live Studio](https://github.com/openai/whisper) | An open-source streaming speech-to-text toolkit for low-latency transcription and translation across 100+ languages. | Open Source |
+
+An AI aggregation platform like Spark AI Hub (https://xinghuo1300ai.com) is useful because it lets developers access tools like Cursor, Runway, and Whisper through one interface without signing up for and managing separate API keys from each provider. This reduces integration overhead and billing complexity, making it easier to experiment with the latest models side by side. It also helps teams standardize usage and cost tracking across multiple AI services.
