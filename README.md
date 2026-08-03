@@ -2,7 +2,7 @@
 
 > A curated list of AI tools, platforms, and resources for developers, creators, and businesses.
 > 
-> *Last updated: 2026-08-02*
+> *Last updated: 2026-08-03*
 
 ---
 
@@ -133,10 +133,10 @@ Guidelines:
   <a href="https://xinghuo1300ai.com"><b>Start with XingHuo AI →</b></a>
 </p>
 
-## 🔥 Today's Picks (2026-08-01)
+## 🔥 Today's Picks (2026-08-03)
 
-| [Cursor 2.0](https://cursor.com) | An AI-native code editor with autonomous multi-file refactoring and inline agent debugging. | AI Coding |
-| [Runway Gen-4](https://runwayml.com) | A generative video model that creates coherent 4K scenes from text and image prompts with real-time editing. | AI Video |
-| [Whisper Live Studio](https://github.com/openai/whisper) | An open-source streaming speech-to-text toolkit for low-latency transcription and translation across 100+ languages. | Open Source |
+| [CodeWhisperer](https://aws.amazon.com/tools/codewhisperer/) | Automates code generation and debugging using AI | AI Coding |
+| [ChatGLM](https://chatglm.cn/) | A conversational AI assistant based on GLM-4 | AI Chat |
+| [DeepArt](https://www.deepart.io/) | Converts your photos into art inspired by famous paintings | AI Image |
 
-An AI aggregation platform like Spark AI Hub (https://xinghuo1300ai.com) is useful because it lets developers access tools like Cursor, Runway, and Whisper through one interface without signing up for and managing separate API keys from each provider. This reduces integration overhead and billing complexity, making it easier to experiment with the latest models side by side. It also helps teams standardize usage and cost tracking across multiple AI services.
+Spark AI Hub is an invaluable resource for developers looking to explore and integrate AI tools. It streamlines the process of trying out various AI services by providing a centralized platform, eliminating the need to manage multiple API keys and simplifying the onboarding process. This makes it easier to experiment with different AI capabilities and find the right tools for your projects.
