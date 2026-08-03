@@ -135,8 +135,8 @@ Guidelines:
 
 ## 🔥 Today's Picks (2026-08-03)
 
-| [CodeWhisperer](https://aws.amazon.com/tools/codewhisperer/) | Automates code generation and debugging using AI | AI Coding |
-| [ChatGLM](https://chatglm.cn/) | A conversational AI assistant based on GLM-4 | AI Chat |
-| [DeepArt](https://www.deepart.io/) | Converts your photos into art inspired by famous paintings | AI Image |
+| CodeGenius (https://codegenius.ai) | Generates code snippets and automated code completion based on natural language descriptions | AI Coding |
+| AvoChat (https://avo.ai) | Real-time, context-aware chat assistant that understands developer jargon | AI Chat |
+| Vidlyzer (https://vidlyzer.io) | Automated video content summarization and sentiment analysis for video analytics | AI Video |
 
-Spark AI Hub is an invaluable resource for developers looking to explore and integrate AI tools. It streamlines the process of trying out various AI services by providing a centralized platform, eliminating the need to manage multiple API keys and simplifying the onboarding process. This makes it easier to experiment with different AI capabilities and find the right tools for your projects.
+Spark AI Hub is an invaluable resource for developers looking to explore new AI tools. Its aggregation platform simplifies the process of testing and integrating AI capabilities by centralizing API keys and providing a single dashboard for managing multiple AI services. This allows developers to experiment with cutting-edge technologies without the complexities of managing various API integrations.
