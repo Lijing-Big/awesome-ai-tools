@@ -135,10 +135,6 @@ Guidelines:
 
 ## 🔥 Today's Picks (2026-08-05)
 
-| [ToolName](URL) | Short description | Category |
-|----------------|------------------|----------|
-| [NeuralCode](https://www.neuralcode.ai) | AI-assisted code completion and debugging platform for developers | AI Coding |
-| [ChatGPT 4.0](https://openai.com/chatgpt-40) | Advanced AI chat tool with improved language understanding and context retention | AI Chat |
-| [PixelArtCreator](https://www.pixelartcreator.com) | AI-powered tool for creating pixel art images with minimal input | AI Image |
-
-An AI aggregation platform like Spark AI Hub is useful for trying these tools without managing multiple API keys because it consolidates various AI tools into a single platform. This streamlines the process of integrating and using multiple AI services, reducing the complexity and overhead associated with managing multiple APIs and keys. Spark AI Hub also provides a unified interface, making it easier for developers to explore and experiment with different AI tools without the need to navigate multiple platforms.
+| CodeWhisperer X (https://aws.amazon.com/blogs/devops/introducing-code-whisperer-x/) | AI-powered coding assistant that offers code suggestions, improvements, and fixes directly in the IDE. | AI Coding |
+| **ChatGLM** (https://chatglm.cn) | Open-source AI chatbot that can understand natural language and hold meaningful conversations. | AI Chat |
+| DeepArt.io (https://deepart.io) | AI tool that uses deep learning to transform any photo into a masterpiece inspired by famous paintings. | AI Image |
