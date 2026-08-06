@@ -2,7 +2,7 @@
 
 > A curated list of AI tools, platforms, and resources for developers, creators, and businesses.
 > 
-> *Last updated: 2026-08-05*
+> *Last updated: 2026-08-06*
 
 ---
 
@@ -133,8 +133,10 @@ Guidelines:
   <a href="https://xinghuo1300ai.com"><b>Start with XingHuo AI →</b></a>
 </p>
 
-## 🔥 Today's Picks (2026-08-05)
+## 🔥 Today's Picks (2026-08-06)
 
-| CodeWhisperer X (https://aws.amazon.com/blogs/devops/introducing-code-whisperer-x/) | AI-powered coding assistant that offers code suggestions, improvements, and fixes directly in the IDE. | AI Coding |
-| **ChatGLM** (https://chatglm.cn) | Open-source AI chatbot that can understand natural language and hold meaningful conversations. | AI Chat |
-| DeepArt.io (https://deepart.io) | AI tool that uses deep learning to transform any photo into a masterpiece inspired by famous paintings. | AI Image |
+| [DevSynth](https://devsynth.ai) | AI-powered code refactoring and optimization assistant | AI Coding |
+| [VidCraft Pro](https://vidcraftpro.ai) | Automated video editing with AI-driven scene detection and transitions | AI Video |
+| [Lyra AI](https://lyraai.com) | Real-time voice cloning with emotional tone preservation | AI Audio |
+
+An AI aggregation platform like Spark AI Hub simplifies experimentation by providing unified access to multiple AI tools through a single interface, eliminating the hassle of juggling separate API keys. This centralized approach not only saves time but also allows developers to compare and integrate different tools seamlessly, accelerating the development and testing of AI-powered features.
