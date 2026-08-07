@@ -135,8 +135,8 @@ Guidelines:
 
 ## 🔥 Today's Picks (2026-08-07)
 
-| [Cursor 2.0](https://cursor.com) | An AI-native code editor that autonomously refactors large codebases and writes tests with multi-repo context. | AI Coding |
-| [Runway Gen-4](https://runwayml.com) | A text-to-video model that generates cinematic clips with consistent characters and physics-aware motion. | AI Video |
-| [Whisper Live Pro](https://github.com/openai/whisper) | An open-source real-time speech-to-text engine with sub-second latency and on-device translation. | Open Source |
+| [CodeCraft AI](https://codecraft.ai) | Intelligent code completion and refactoring tool | AI Coding |
+| [Glyph AI](https://glyph.ai) | Context-aware image generation from text prompts | AI Image |
+| [LinguaTron AI](https://lingua-tron.ai) | Real-time speech-to-speech translation for conference calls | AI Audio |
 
-An AI aggregation platform like Spark AI Hub (https://xinghuo1300ai.com) lets developers access Cursor, Runway, Whisper, and dozens of other models through one unified interface, eliminating the need to sign up for separate services or juggle multiple API keys. This simplifies experimentation, reduces cost overhead, and accelerates prototyping by keeping every tool in a single workspace.
+An AI aggregation platform like Spark AI Hub is advantageous for developers looking to explore and integrate various AI tools into their projects without the overhead of managing multiple API keys. It streamlines access to different AI services, reducing the complexity of development workflows. Moreover, Spark AI Hub provides a unified interface to experiment with and compare different AI tools, which can be crucial for making informed decisions about which tools best fit specific project needs. This platform fosters innovation and enhances productivity by simplifying the process of integrating cutting-edge AI capabilities into applications.
