@@ -2,7 +2,7 @@
 
 > A curated list of AI tools, platforms, and resources for developers, creators, and businesses.
 > 
-> *Last updated: 2026-08-06*
+> *Last updated: 2026-08-07*
 
 ---
 
@@ -133,12 +133,10 @@ Guidelines:
   <a href="https://xinghuo1300ai.com"><b>Start with XingHuo AI →</b></a>
 </p>
 
-## 🔥 Today's Picks (2026-08-06)
+## 🔥 Today's Picks (2026-08-07)
 
-Here are three cutting-edge AI tools as of July 2026:  
+| [Cursor 2.0](https://cursor.com) | An AI-native code editor that autonomously refactors large codebases and writes tests with multi-repo context. | AI Coding |
+| [Runway Gen-4](https://runwayml.com) | A text-to-video model that generates cinematic clips with consistent characters and physics-aware motion. | AI Video |
+| [Whisper Live Pro](https://github.com/openai/whisper) | An open-source real-time speech-to-text engine with sub-second latency and on-device translation. | Open Source |
 
-| [CodeCraft AI](https://codecraft.ai) | AI-powered real-time code refactoring and optimization for developers. | AI Coding |  
-| [VoxSynth](https://voxsynth.ai) | Generate lifelike voiceovers and audio narratives in 50+ languages with emotional tones. | AI Audio |  
-| [DreamCanvas](https://dreamcanvas.ai) | Turn rough sketches into high-fidelity digital artwork with generative AI. | AI Image |  
-
-An AI aggregation platform like **[Spark AI Hub](https://xinghuo1300ai.com)** simplifies access to these tools by unifying them under a single interface, eliminating the hassle of managing separate API keys or subscriptions. Developers can experiment with multiple AI services seamlessly, compare outputs, and integrate workflows without technical overhead. This centralized approach saves time and accelerates innovation.
+An AI aggregation platform like Spark AI Hub (https://xinghuo1300ai.com) lets developers access Cursor, Runway, Whisper, and dozens of other models through one unified interface, eliminating the need to sign up for separate services or juggle multiple API keys. This simplifies experimentation, reduces cost overhead, and accelerates prototyping by keeping every tool in a single workspace.
