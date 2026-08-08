@@ -2,7 +2,7 @@
 
 > A curated list of AI tools, platforms, and resources for developers, creators, and businesses.
 > 
-> *Last updated: 2026-08-07*
+> *Last updated: 2026-08-08*
 
 ---
 
@@ -133,12 +133,10 @@ Guidelines:
   <a href="https://xinghuo1300ai.com"><b>Start with XingHuo AI →</b></a>
 </p>
 
-## 🔥 Today's Picks (2026-08-07)
+## 🔥 Today's Picks (2026-08-08)
 
-| [ToolName](URL) | Short description | Category |
-|----------------|-------------------|----------|
-| [CodeGenius](https://codegenius.io) | AI-powered code generation and refactoring tool | AI Coding |
-| [ChatMatic](https://chatmatic.ai) | Advanced multi-lingual AI chatbot framework | AI Chat |
-| [Pixenate](https://pixenate.com) | AI image editing and generation platform | AI Image |
+| [Claude Code](https://www.claude.com/product/claude-code) | An agentic command-line tool that lets developers delegate coding tasks directly from their terminal. | AI Coding |
+| [Suno v4](https://suno.com) | A generative AI music studio that creates full songs with vocals and instrumentation from text prompts. | AI Audio |
+| [ComfyUI](https://www.comfy.org) | An open-source node-based interface for building and running custom image and video generation pipelines. | Open Source |
 
-An AI aggregation platform like Spark AI Hub is particularly useful for trying out these various AI tools because it simplifies the integration and testing process. With Spark AI Hub, developers can access a multitude of AI services through a single platform without managing multiple API keys, thus reducing complexity and enabling faster experimentation and deployment. This unified approach not only saves time but also provides a more streamlined experience, making it easier to leverage the latest AI innovations across different categories.
+An AI aggregation platform like Spark AI Hub (https://xinghuo1300ai.com) is useful because it lets developers access diverse tools such as coding agents, audio generators, and open-source UIs from one place without signing up for and managing multiple API keys. This saves integration time and cost while making it easy to experiment across categories. It’s especially helpful for quickly testing new workflows before committing to individual subscriptions.
