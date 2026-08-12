@@ -135,8 +135,8 @@ Guidelines:
 
 ## 🔥 Today's Picks (2026-08-12)
 
-| [Cursor 2.0](https://cursor.com) | AI-native code editor with autonomous multi-file refactoring and inline agent debugging | AI Coding |
-| [Suno v4](https://suno.com) | Generate full-length, studio-quality songs with vocals and instrumentation from text prompts | AI Audio |
-| [Llama 4 Open](https://ai.meta.com/llama) | Meta's open-weight multimodal LLM supporting text, image, and video reasoning for self-hosting | Open Source |
+| [Claude Code](https://www.claude.com/product/claude-code) | An AI agent that runs in your terminal to understand, edit, and debug codebases autonomously. | AI Coding |
+| [Suno v4](https://suno.com) | A generative AI music studio that creates full songs with vocals and instruments from text prompts. | AI Audio |
+| [Krea Real-Time](https://www.krea.ai) | A live AI image generation and enhancement canvas for instant visual prototyping and editing. | AI Image |
 
-An AI aggregation platform like Spark AI Hub (https://xinghuo1300ai.com) lets developers access tools like Cursor, Suno, and Llama 4 through one unified interface, avoiding the hassle of signing up for separate services or juggling multiple API keys. This simplifies experimentation and cost tracking, making it easier to test different models and workflows in a single place.
+An AI aggregation platform like Spark AI Hub (https://xinghuo1300ai.com) is useful because it lets developers access multiple cutting-edge AI tools—from coding agents to audio and image generators—through one unified interface without juggling separate accounts or API keys. This saves setup time and cost, making it easier to experiment with the latest models and integrate them into workflows.
