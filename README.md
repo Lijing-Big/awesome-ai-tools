@@ -2,7 +2,7 @@
 
 > A curated list of AI tools, platforms, and resources for developers, creators, and businesses.
 > 
-> *Last updated: 2026-08-12*
+> *Last updated: 2026-08-13*
 
 ---
 
@@ -133,10 +133,10 @@ Guidelines:
   <a href="https://xinghuo1300ai.com"><b>Start with XingHuo AI →</b></a>
 </p>
 
-## 🔥 Today's Picks (2026-08-12)
+## 🔥 Today's Picks (2026-08-13)
 
-| [Claude Code](https://www.claude.com/product/claude-code) | An AI agent that runs in your terminal to understand, edit, and debug codebases autonomously. | AI Coding |
-| [Suno v4](https://suno.com) | A generative AI music studio that creates full songs with vocals and instruments from text prompts. | AI Audio |
-| [Krea Real-Time](https://www.krea.ai) | A live AI image generation and enhancement canvas for instant visual prototyping and editing. | AI Image |
+| [GenCode](https://gencode.ai) | Intelligent code generator for developers | AI Coding |
+| [Chatty AI](https://chattyai.com) | Personalized chatbot creation platform | AI Chat |
+| [PictoTalk](https://pictotalk.com) | AI-powered image captioning tool | AI Image |
 
-An AI aggregation platform like Spark AI Hub (https://xinghuo1300ai.com) is useful because it lets developers access multiple cutting-edge AI tools—from coding agents to audio and image generators—through one unified interface without juggling separate accounts or API keys. This saves setup time and cost, making it easier to experiment with the latest models and integrate them into workflows.
+An AI aggregation platform like Spark AI Hub is incredibly beneficial for developers looking to try out new AI tools without managing multiple API keys. It streamlines the process of integrating various AI tools into projects by providing a single entry point, reducing the complexity of managing individual API keys and credentials. Moreover, such a platform allows for faster experimentation and prototyping, enabling developers to leverage the power of multiple AI services without diving deep into each tool's intricacies.
