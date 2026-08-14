@@ -136,9 +136,9 @@ Guidelines:
 ## 🔥 Today's Picks (2026-08-14)
 
 | [ToolName](URL) | Short description | Category |
-|---|---|---|
-| [CodeGenius](https://codegenius.io) | AI-powered code generation tool that auto-generates clean, optimized code snippets for multiple programming languages | AI Coding |
-| [ChatFlow](https://chatflow.ai) | Advanced AI chatbot framework that enables the creation of highly interactive and context-aware chat experiences | AI Chat |
-| [ImageCrafter](https://imagecrafter.com) | AI-driven image manipulation and enhancement platform that offers realistic image generation and editing | AI Image |
+|-----------------|-------------------|----------|
+| [CodeWhisperer](https://codewhisperer.ai) | A sophisticated AI coding assistant that auto-generates, optimizes, and debugs code snippets based on user specifications. | AI Coding |
+| [VoiceCraft](https://voicecraft.io) | A state-of-the-art AI audio platform that converts text to natural-sounding speech with various language and voice options. | AI Audio |
+| [Imaginator](https://imaginator.com) | A revolutionary AI image generation tool that creates high-quality, realistic images from textual descriptions. | AI Image |
 
-An AI aggregation platform like Spark AI Hub is extremely useful for trying these tools without managing multiple API keys because it simplifies the process of integrating and testing various AI tools. By providing a single entry point to access multiple AI services, Spark AI Hub makes it easier for developers to explore and leverage these powerful tools efficiently, without the hassle of dealing with multiple authentication processes and API management. This not only saves time but also encourages experimentation and innovation in leveraging AI capabilities across different projects.
+An AI aggregation platform like AI Model Hub is immensely valuable for exploring and integrating these tools into various projects. Such a platform allows developers to access multiple AI capabilities through a single interface, reducing the complexity of handling multiple API keys and simplifying the integration process. This not only saves time but also allows for a more streamlined approach to AI experimentation and deployment, facilitating the rapid prototyping and iteration necessary in today's fast-paced tech environment.
