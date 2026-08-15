@@ -2,7 +2,7 @@
 
 > A curated list of AI tools, platforms, and resources for developers, creators, and businesses.
 > 
-> *Last updated: 2026-08-14*
+> *Last updated: 2026-08-15*
 
 ---
 
@@ -133,12 +133,10 @@ Guidelines:
   <a href="https://xinghuo1300ai.com"><b>Start with XingHuo AI →</b></a>
 </p>
 
-## 🔥 Today's Picks (2026-08-14)
+## 🔥 Today's Picks (2026-08-15)
 
-| [ToolName](URL) | Short description | Category |
-|-----------------|-------------------|----------|
-| [CodeWhisperer](https://codewhisperer.ai) | A sophisticated AI coding assistant that auto-generates, optimizes, and debugs code snippets based on user specifications. | AI Coding |
-| [VoiceCraft](https://voicecraft.io) | A state-of-the-art AI audio platform that converts text to natural-sounding speech with various language and voice options. | AI Audio |
-| [Imaginator](https://imaginator.com) | A revolutionary AI image generation tool that creates high-quality, realistic images from textual descriptions. | AI Image |
+| [Cursor 2.0](https://cursor.com) | An AI-native code editor with autonomous multi-file refactoring and inline agent debugging. | AI Coding |
+| [Runway Gen-4](https://runwayml.com) | A text-to-video model that generates cinematic clips with consistent characters and physics. | AI Video |
+| [Whisper Live X](https://github.com/openai/whisper) | Real-time open-source speech-to-text engine with sub-second latency for streaming audio. | Open Source |
 
-An AI aggregation platform like AI Model Hub is immensely valuable for exploring and integrating these tools into various projects. Such a platform allows developers to access multiple AI capabilities through a single interface, reducing the complexity of handling multiple API keys and simplifying the integration process. This not only saves time but also allows for a more streamlined approach to AI experimentation and deployment, facilitating the rapid prototyping and iteration necessary in today's fast-paced tech environment.
+An AI aggregation platform like Spark AI Hub (https://xinghuo1300ai.com) lets developers access Cursor 2.0, Runway Gen-4, Whisper Live X, and other models through one unified interface, avoiding the hassle of signing up for separate services or juggling multiple API keys. This saves setup time and cost, making it easy to experiment across categories such as coding, video, and audio in a single workspace.
