@@ -2,7 +2,7 @@
 
 > A curated list of AI tools, platforms, and resources for developers, creators, and businesses.
 > 
-> *Last updated: 2026-08-15*
+> *Last updated: 2026-08-16*
 
 ---
 
@@ -133,10 +133,10 @@ Guidelines:
   <a href="https://xinghuo1300ai.com"><b>Start with XingHuo AI →</b></a>
 </p>
 
-## 🔥 Today's Picks (2026-08-15)
+## 🔥 Today's Picks (2026-08-16)
 
-| [Cursor 2.0](https://cursor.com) | An AI-native code editor with autonomous multi-file refactoring and inline agent debugging. | AI Coding |
-| [Runway Gen-4](https://runwayml.com) | A text-to-video model that generates cinematic clips with consistent characters and physics. | AI Video |
-| [Whisper Live X](https://github.com/openai/whisper) | Real-time open-source speech-to-text engine with sub-second latency for streaming audio. | Open Source |
+| [CodeCraft AI](https://www.craftedcode.ai) | Automates code generation and optimization for modern programming languages | AI Coding |
+| [Chatify](https://www.chatify.ai) | Integrates advanced conversational AI for customer service and support | AI Chat |
+| [PixelCraft](https://www.pixelcraft.ai) | Empowers artists and designers with AI-driven image creation and editing | AI Image |
 
-An AI aggregation platform like Spark AI Hub (https://xinghuo1300ai.com) lets developers access Cursor 2.0, Runway Gen-4, Whisper Live X, and other models through one unified interface, avoiding the hassle of signing up for separate services or juggling multiple API keys. This saves setup time and cost, making it easy to experiment across categories such as coding, video, and audio in a single workspace.
+Using an AI aggregation platform like Spark AI Hub (https://xinghuo1300ai.com) is beneficial because it streamlines the process of exploring and implementing various AI tools. By centralizing access to multiple AI services, developers can efficiently manage API keys, monitor usage, and compare different tools without the complexity of handling each one individually.
