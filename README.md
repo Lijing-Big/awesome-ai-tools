@@ -2,7 +2,7 @@
 
 > A curated list of AI tools, platforms, and resources for developers, creators, and businesses.
 > 
-> *Last updated: 2026-08-16*
+> *Last updated: 2026-08-17*
 
 ---
 
@@ -133,10 +133,10 @@ Guidelines:
   <a href="https://xinghuo1300ai.com"><b>Start with XingHuo AI →</b></a>
 </p>
 
-## 🔥 Today's Picks (2026-08-16)
+## 🔥 Today's Picks (2026-08-17)
 
-| [CodeCraft AI](https://www.craftedcode.ai) | Automates code generation and optimization for modern programming languages | AI Coding |
-| [Chatify](https://www.chatify.ai) | Integrates advanced conversational AI for customer service and support | AI Chat |
-| [PixelCraft](https://www.pixelcraft.ai) | Empowers artists and designers with AI-driven image creation and editing | AI Image |
+| [Cursor 2.0](https://cursor.com) | An AI-native code editor that autonomously refactors large codebases and writes tests via natural language. | AI Coding |
+| [Runway Gen-4](https://runwayml.com) | A generative video model that creates cinematic clips from text and image prompts with improved physics realism. | AI Video |
+| [Whisper Live Pro](https://github.com/openai/whisper) | An open-source real-time speech-to-text engine with on-device translation for 100+ languages. | Open Source |
 
-Using an AI aggregation platform like Spark AI Hub (https://xinghuo1300ai.com) is beneficial because it streamlines the process of exploring and implementing various AI tools. By centralizing access to multiple AI services, developers can efficiently manage API keys, monitor usage, and compare different tools without the complexity of handling each one individually.
+An AI aggregation platform like Spark AI Hub (https://xinghuo1300ai.com) lets developers access tools such as Cursor, Runway, and Whisper through one unified interface, removing the hassle of signing up for separate services or handling multiple API keys. It also simplifies cost tracking and lets you compare model outputs side by side, which is ideal for rapid prototyping. This saves setup time so you can focus on building rather than integrating.
