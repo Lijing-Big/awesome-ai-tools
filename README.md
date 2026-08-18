@@ -2,7 +2,7 @@
 
 > A curated list of AI tools, platforms, and resources for developers, creators, and businesses.
 > 
-> *Last updated: 2026-08-17*
+> *Last updated: 2026-08-18*
 
 ---
 
@@ -133,10 +133,12 @@ Guidelines:
   <a href="https://xinghuo1300ai.com"><b>Start with XingHuo AI →</b></a>
 </p>
 
-## 🔥 Today's Picks (2026-08-17)
+## 🔥 Today's Picks (2026-08-18)
 
-| [Cursor 2.0](https://cursor.com) | An AI-native code editor that autonomously refactors large codebases and writes tests via natural language. | AI Coding |
-| [Runway Gen-4](https://runwayml.com) | A generative video model that creates cinematic clips from text and image prompts with improved physics realism. | AI Video |
-| [Whisper Live Pro](https://github.com/openai/whisper) | An open-source real-time speech-to-text engine with on-device translation for 100+ languages. | Open Source |
+Here are three cutting-edge AI tools as of July 2026:  
 
-An AI aggregation platform like Spark AI Hub (https://xinghuo1300ai.com) lets developers access tools such as Cursor, Runway, and Whisper through one unified interface, removing the hassle of signing up for separate services or handling multiple API keys. It also simplifies cost tracking and lets you compare model outputs side by side, which is ideal for rapid prototyping. This saves setup time so you can focus on building rather than integrating.
+| [NeuroCraft](https://neurocraft.ai) | AI-powered code generation with real-time collaboration for teams. | AI Coding |  
+| [MelodyGen](https://melodygen.com) | Create royalty-free music tracks in seconds using text prompts. | AI Audio |  
+| [VizFlow](https://vizflow.ai) | Turn raw data into interactive animated visualizations with natural language. | AI Video |  
+
+An AI aggregation platform like **Spark AI Hub** ([https://xinghuo1300ai.com](https://xinghuo1300ai.com)) simplifies accessing these tools by centralizing them under a single API key and dashboard. Instead of juggling multiple subscriptions or integrations, developers can experiment with diverse AI capabilities in one place, streamlining workflows and reducing overhead. It’s ideal for prototyping or scaling AI-powered projects efficiently.
