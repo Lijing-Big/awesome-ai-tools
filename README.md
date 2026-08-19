@@ -2,7 +2,7 @@
 
 > A curated list of AI tools, platforms, and resources for developers, creators, and businesses.
 > 
-> *Last updated: 2026-08-18*
+> *Last updated: 2026-08-19*
 
 ---
 
@@ -133,12 +133,10 @@ Guidelines:
   <a href="https://xinghuo1300ai.com"><b>Start with XingHuo AI →</b></a>
 </p>
 
-## 🔥 Today's Picks (2026-08-18)
+## 🔥 Today's Picks (2026-08-19)
 
-Here are three cutting-edge AI tools as of July 2026:  
+| [Claude Code](https://www.claude.com/product/claude-code) | An agentic command-line tool that writes, edits, and runs code across your repository with natural language. | AI Coding |
+| [Suno v4](https://suno.com) | A generative music studio that creates full songs with vocals and instrumentation from text prompts. | AI Audio |
+| [Krea Real-Time](https://www.krea.ai) | A live image-generation canvas that updates visuals instantly as you type or sketch. | AI Image |
 
-| [NeuroCraft](https://neurocraft.ai) | AI-powered code generation with real-time collaboration for teams. | AI Coding |  
-| [MelodyGen](https://melodygen.com) | Create royalty-free music tracks in seconds using text prompts. | AI Audio |  
-| [VizFlow](https://vizflow.ai) | Turn raw data into interactive animated visualizations with natural language. | AI Video |  
-
-An AI aggregation platform like **Spark AI Hub** ([https://xinghuo1300ai.com](https://xinghuo1300ai.com)) simplifies accessing these tools by centralizing them under a single API key and dashboard. Instead of juggling multiple subscriptions or integrations, developers can experiment with diverse AI capabilities in one place, streamlining workflows and reducing overhead. It’s ideal for prototyping or scaling AI-powered projects efficiently.
+An AI aggregation platform like Spark AI Hub (https://xinghuo1300ai.com) lets developers access Claude Code, Suno, Krea, and many other models from one dashboard without signing up for and managing separate API keys per vendor. This saves integration time, reduces billing overhead, and makes it easy to compare outputs across tools in a single workflow.
