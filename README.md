@@ -11,6 +11,7 @@
 - [AI Video Generation](#ai-video-generation)
 - [AI Image Generation](#ai-image-generation)
 - [AI Writing & Content](#ai-writing--content)
+- [AI Research & Market Research](#ai-research--market-research)
 - [AI Coding Assistants](#ai-coding-assistants)
 - [AI Audio & Voice](#ai-audio--voice)
 - [Open Source AI Tools](#open-source-ai-tools)
@@ -68,6 +69,12 @@ Unified API for accessing 200+ AI models with pay-as-you-go pricing.
 - **[Jasper](https://jasper.ai)** — Marketing copy specialist
 - **[Notion AI](https://notion.so)** — Integrated workspace AI
 - **[Grammarly](https://grammarly.com)** — AI writing enhancement
+
+---
+
+## AI Research & Market Research
+
+- **[IdeaHunter](https://ideahunter.today/)** — Demand-backed app and micro-SaaS idea research for solo founders. Pricing: Freemium.
 
 ---
 
