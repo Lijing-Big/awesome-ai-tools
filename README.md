@@ -87,6 +87,7 @@ Unified API for accessing 200+ AI models with pay-as-you-go pricing.
 - **[Suno](https://suno.ai)** — AI music generation
 - **[Murf AI](https://murf.ai)** — Professional voiceovers
 - **[Descript](https://descript.com)** — AI video/audio editing
+- **[QuietTake](https://noiseremover.site/)** — Free browser-local speech-noise cleanup, comparison playback and WAV export; up to 50 MB and five minutes per file, without signup or audio upload.
 
 ---
 
