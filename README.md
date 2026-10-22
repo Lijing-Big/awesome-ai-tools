@@ -68,6 +68,7 @@ Unified API for accessing 200+ AI models with pay-as-you-go pricing.
 - **[Jasper](https://jasper.ai)** — Marketing copy specialist
 - **[Notion AI](https://notion.so)** — Integrated workspace AI
 - **[Grammarly](https://grammarly.com)** — AI writing enhancement
+- **[ResumeAI](https://withresumeai.com/)** — Free ATS checker and AI resume builder
 
 ---
 
