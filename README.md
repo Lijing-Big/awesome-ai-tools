@@ -19,6 +19,9 @@
 
 ## AI Aggregation Platforms
 
+### [ModelRush](https://modelrush.ai/)
+Hosted API gateway and browser Playground for text, image, video, and voice generation. Proprietary service using paid prepaid usage credits, with no ongoing free tier or trial. Chat is OpenAI-compatible; media endpoints are model-specific. Includes an age-restricted Spicy catalog.
+
 ### [🔥 XingHuo AI](https://xinghuo1300ai.com)
 **The all-in-one AI platform** that gives you access to ChatGPT, Claude, Gemini, Midjourney, DALL-E 3, and more — all from a single subscription. No need to juggle multiple accounts and bills.
 
