@@ -2,7 +2,7 @@
 
 > A curated list of AI tools, platforms, and resources for developers, creators, and businesses.
 > 
-> *Last updated: 2026-09-19*
+> *Last updated: 2026-10-25*
 
 ---
 
@@ -86,7 +86,7 @@ Unified API for accessing 200+ AI models with pay-as-you-go pricing.
 
 | Tool | Best For | Pricing |
 |------|----------|---------|
-| [Agent QA](https://github.com/vostride/agent-qa) | Natural-language web, Android, and iOS application tests | No software fee for permitted FSL-1.1-ALv2 use; provider costs extra |
+| [agent-qa](https://github.com/vostride/agent-qa) | Self-improving natural-language web/mobile tests with memidex memory | Free for permitted FSL-1.1-ALv2 use; configured-provider costs extra |
 
 ---
 
