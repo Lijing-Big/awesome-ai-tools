@@ -87,6 +87,7 @@ Unified API for accessing 200+ AI models with pay-as-you-go pricing.
 - **[Suno](https://suno.ai)** — AI music generation
 - **[Murf AI](https://murf.ai)** — Professional voiceovers
 - **[Descript](https://descript.com)** — AI video/audio editing
+- **[Meetini](https://meetini.net/)** — Meeting and interview assistant for Apple Silicon Macs with local live transcripts, meeting notes, and cloud AI follow-up. Paid: Notes $20/month or $45/quarter; Career $95/month or $240/quarter with 600 AI minutes/month.
 
 ---
 
