@@ -46,6 +46,7 @@ Unified API for accessing 200+ AI models with pay-as-you-go pricing.
 | [HeyGen](https://heygen.com) | AI avatars / talking head | $29/mo |
 | [Sora](https://openai.com/sora) | High-quality generation | ChatGPT Plus |
 | [Synthesia](https://synthesia.io) | Corporate training videos | $22/mo |
+| [ReelAI](https://tryreelai.com/) | Photo-to-video preset effects | Paid |
 
 ---
 
